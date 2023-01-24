@@ -25,29 +25,28 @@
 /*    ===========================  */
 
 
-.featured-news-section {
-    width: 25%;
-    float: right;
-    margin-top: 20px;
+.featured-news {
+    padding: 20px;
 }
 
-.featured-news-section h2 {
-    text-align: center;
-}
-
-.featured-news-item {
+.featured-news h2 {
     margin-bottom: 20px;
 }
 
-.featured-news-item img {
-    width: 100%;
+.featured-news li {
+    list-style: none;
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    padding: 10px;
 }
 
-.featured-news-item h3 {
-    margin-top: 10px;
+.featured-news li a {
+    text-decoration: none;
+    color: #333;
 }
 
-.f
-
+.featured-news li h3 {
+    margin-bottom: 10px;
+}
 
 
